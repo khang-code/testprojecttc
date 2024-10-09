@@ -1,0 +1,4 @@
+UserName,Password,PhoneNumber,Email,FullName,Role
+tuan,q92q7t,0982735971234,a@a.com,ljabsvijbwaqwfe,ROLE_BUYER
+khang,khang,023147612,khang206@gmail.com,khanglt,ROLE_BUYER
+admin,admin,0123456789,admin@gmail.com,admin,ROLE_ADMIN
